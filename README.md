@@ -385,7 +385,7 @@ If you use FLAIR in your research, please cite:
 
 ## 📜 License
 
-This source code is released under the MIT license. See [LICENSE](LICENSE) for details.
+This source code is released under the APACHE 2.0 license. See [LICENSE](LICENSE) for details.
 
 We do not own any of the clinical datasets used with this benchmark. Access to CLIF consortium data requires approval from each participating institution.
 
